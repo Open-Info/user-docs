@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Verified ?](README.md)
 * [Frontend Flow](frontend-flow/README.md)
   * [1. Verified?](frontend-flow/1.-verified.md)
   * [Unknown -> Register](frontend-flow/unknown-greater-than-register.md)
