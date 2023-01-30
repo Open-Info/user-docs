@@ -1,6 +1,13 @@
-# Verified?
+---
+description: This address is verified by Open-Information
+---
 
-Verified ? 0x0000000000000000000000000000000000000000 0x0e9989e703F39880A8E2759BB93B4A9dDD11aCcF View flagged addresses View verified addresses\
+# Verified ✓
+
+<figure><img src="../.gitbook/assets/yes.png" alt=""><figcaption><p>PRINTER LINK: see the verified ERC751 certificate of searched address.</p></figcaption></figure>
+
+This address is verified :ballot\_box\_with\_check:
+
 \
-[https://www.figma.com/file/2CS6NJbgS73J1pWKZc1IAf/Untitled-(Copy)?node-id=0%3A1\&t=Ypp0txSiuHNjWSlj-0](https://www.figma.com/file/2CS6NJbgS73J1pWKZc1IAf/Untitled-\(Copy\)?node-id=0%3A1\&t=Ypp0txSiuHNjWSlj-0)\
-\
+Click the printer icon to confirm the **Soulbound** NFT.
+
