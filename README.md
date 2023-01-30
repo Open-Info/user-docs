@@ -1,2 +1,2 @@
-# user-docs
-Gitbook repo for verified app helper docs.
+# [User documentation](https://open-info.gitbook.io/verified-app/)
+Gitbook for verified app helper docs.
