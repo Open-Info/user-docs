@@ -4,6 +4,6 @@ cover: .gitbook/assets/unknown.png
 coverY: 0
 ---
 
-# Verified ?
+# [Verified](https://open-info.gitbook.io/verified-app/) ?
 
 Verified User-Manual :blue\_book:.
