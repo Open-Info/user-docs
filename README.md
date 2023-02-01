@@ -10,7 +10,7 @@ coverY: 118
 
 ## Breakdown
 
-How Verified-Systems work.
+How Verified Systems work.
 
 {% content-ref url="user-interface/frontend-flow.md" %}
 [frontend-flow.md](user-interface/frontend-flow.md)
