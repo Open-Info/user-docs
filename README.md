@@ -6,7 +6,7 @@ coverY: 118
 
 # 👋 Welcome
 
-:blue\_book: This is the[ User-Manual ](https://app.gitbook.com/o/jRv0QK95PNzRKKe2mA0r/s/vj0yO7IWreCs5VlqQLfh/)of the browser App, Verified.&#x20;
+:blue\_book: This is the[ User-Manual ](https://open-info.gitbook.io/verified-app/)of the browser App, Verified.&#x20;
 
 ## Breakdown
 
