@@ -1,12 +1,12 @@
 ---
-description: to ERC20 address verification ✔
+description: to ETH public key verification ✔
 cover: .gitbook/assets/A farewell to Saturn [6000x2500].jpg
 coverY: 118
 ---
 
 # 👋 Welcome
 
-:blue\_book: This is the[ User-Manual ](https://open-info.gitbook.io/verified-app/)of the browser App, Verified.&#x20;
+:blue\_book: This is the[ User-Manual ](https://open-info.gitbook.io/verified-app/)of the browser App, Verified.
 
 ## Breakdown
 
@@ -24,4 +24,4 @@ How Verified Systems work.
 [flagging.md](register-with-open-info/flagging.md)
 {% endcontent-ref %}
 
-<figure><img src=".gitbook/assets/YoungGrotesqueAmericanbittern-max-1mb.gif" alt=""><figcaption><p>noice</p></figcaption></figure>
+<figure><img src=".gitbook/assets/YoungGrotesqueAmericanbittern-max-1mb (2) (2).gif" alt=""><figcaption><p>noice</p></figcaption></figure>

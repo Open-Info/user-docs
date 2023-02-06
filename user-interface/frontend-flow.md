@@ -24,19 +24,20 @@ description: Flow of Verified.
 
 ## **Search:**
 
-After the user pastes an `ERC20` address, the following happens:\
+After the user pastes an address, the following happens:\
 
 
-1. Verified App checks `ERC20` address for **Soulbound-NFT Certificates**.
-2. The results are shown as one of three things:
-   1. The address is verified ✔️
-   2. The address is flagged :exclamation:
-   3. The address is unknown and may be verified/flagged.
+1. A web3 call is made and the address metadata returned.
+2.  The results are shown as one of three things:
 
-### **View **<mark style="color:red;">**flagged**</mark>**/**<mark style="color:green;">**verified**</mark>** addresses:**
+    ✔️ The address is verified\
+    :exclamation: The address is flagged, or\
+    :grey\_question: The address is unknown, optionally register it.
+
+### **View all verified/flagged addresses:**
 
 Display a list of verified or flagged addresses
 
-### **Print `ERC115` Soulbound-NFT:**
+### **Print `ERC751` Soulbound-NFT:**
 
 Links the user to Etherscan- Flagged or Verified Soulbound-NFT.

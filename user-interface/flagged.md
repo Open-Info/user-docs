@@ -4,11 +4,11 @@ description: This address (inter)acts maliciously!
 
 # ☠ Flagged !
 
-<figure><img src="../.gitbook/assets/no.png" alt=""><figcaption><p>PRINT: see the flagged <code>ERC1155</code> certificate of searched address.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/no.png" alt=""><figcaption><p>PRINT: see the flagged <code>ERC 751</code>certificate of searched address.</p></figcaption></figure>
 
 ## **FLAGGED:**
 
-This account has been flagged by Open-Information for having acted or interacted with known malicious ERC20 addresses.\
+This account has been flagged by Open-Information for having acted or interacted with known malicious addresses.\
 \
 Click the printer icon to confirm the **Soulbound-NFT**.
 

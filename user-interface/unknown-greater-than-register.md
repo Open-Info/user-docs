@@ -1,5 +1,5 @@
 ---
-description: This ERC20 Address has not been registered yet.
+description: This ETH Address has not been registered yet.
 ---
 
 # 📝 Unknown -> Register
