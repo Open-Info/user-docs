@@ -1,3 +1,3 @@
-# Rating System
+# Rating
 
-Rate a verfified `ERC20` address.
+Rate a verfified ETH address.

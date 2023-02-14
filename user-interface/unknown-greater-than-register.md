@@ -4,6 +4,10 @@ description: This ETH Address has not been registered yet.
 
 # 📝 Unknown -> Register
 
+{% content-ref url="frontend-flow.md" %}
+[frontend-flow.md](frontend-flow.md)
+{% endcontent-ref %}
+
 <figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 This address has not been verified or flagged by Open-Information yet.\

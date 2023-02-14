@@ -12,7 +12,7 @@ description: how-to guide on getting verified
 
 ## How-to:
 
-How to verify an `ERC20` address.
+How to verify an ETH address.
 
 ## Requirements:
 

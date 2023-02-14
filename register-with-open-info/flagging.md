@@ -12,7 +12,7 @@ description: how-to guide on flagging a user
 
 ## How-to:
 
-How to flag an `ERC20` address.\
+How to flag an ETH address.\
 
 
 ## Requires:

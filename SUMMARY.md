@@ -5,9 +5,9 @@
 ## User-Interface
 
 * [🔃 Frontend Flow](user-interface/frontend-flow.md)
-* [❓ Verified ?](user-interface/1.-verified.md)
-* [☑ Verified ✓](user-interface/verified.md)
-* [☠ Flagged !](user-interface/flagged.md)
+* [❔ Verified](user-interface/1.-verified.md)
+* [✔ Verified](user-interface/verified.md)
+* [❗ Flagged](user-interface/flagged.md)
 * [📝 Unknown -> Register](user-interface/unknown-greater-than-register.md)
 
 ## Register with Open-Info ✓

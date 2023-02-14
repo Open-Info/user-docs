@@ -24,4 +24,4 @@ How Verified Systems work.
 [flagging.md](register-with-open-info/flagging.md)
 {% endcontent-ref %}
 
-<figure><img src=".gitbook/assets/YoungGrotesqueAmericanbittern-max-1mb (2) (2).gif" alt=""><figcaption><p>noice</p></figcaption></figure>
+<figure><img src=".gitbook/assets/YoungGrotesqueAmericanbittern-max-1mb (1) (2) (2).gif" alt=""><figcaption><p>noice</p></figcaption></figure>
