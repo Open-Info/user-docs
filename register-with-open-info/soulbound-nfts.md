@@ -1,5 +1,5 @@
 ---
-description: Untransferable ERC155 Certificates
+description: Untransferable ERC721 Certificates
 ---
 
 # ⛓ Soulbound NFTs

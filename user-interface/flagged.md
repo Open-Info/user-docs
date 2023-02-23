@@ -8,7 +8,7 @@ description: This address (inter)acts maliciously!
 [frontend-flow.md](frontend-flow.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/no.png" alt=""><figcaption><p>PRINT: see the flagged <code>ERC1155</code> certificate of searched address.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/no.png" alt=""><figcaption><p>PRINT: see the flagged <code>ERC721</code> certificate of searched address.</p></figcaption></figure>
 
 ## **FLAGGED:**
 

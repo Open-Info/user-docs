@@ -38,6 +38,6 @@ After the user pastes an address, the following happens:\
 
 Display a list of verified or flagged addresses
 
-### **Print `ERC1155` Soulbound NFT:**
+### **Print `ERC721` Soulbound NFT:**
 
 Links the user to Flagged or Verified Soulbound NFT on EtherScan.
