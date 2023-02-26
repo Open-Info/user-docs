@@ -9,6 +9,7 @@
 * [✔ Verified](user-interface/verified.md)
 * [❗ Flagged](user-interface/flagged.md)
 * [📝 Unknown -> Register](user-interface/unknown-greater-than-register.md)
+* [🗃 View](user-interface/view.md)
 
 ## Register with Open-Info ✓
 
