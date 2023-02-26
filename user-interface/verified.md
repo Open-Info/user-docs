@@ -8,7 +8,7 @@ description: This address is verified by Open-Information
 [frontend-flow.md](frontend-flow.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/yes.png" alt=""><figcaption><p>PRINT: see the verified <code>ERC721</code> certificate of searched address.</p></figcaption></figure>
+{% embed url="https://www.figma.com/file/2CS6NJbgS73J1pWKZc1IAf/UX?node-id=107:21&t=jNKcrbS60CMFagzk-4" %}
 
 This address is verified, click the printer icon to confirm the Soulbound NFT.
 

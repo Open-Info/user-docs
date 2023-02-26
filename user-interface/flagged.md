@@ -8,7 +8,7 @@ description: This address (inter)acts maliciously!
 [frontend-flow.md](frontend-flow.md)
 {% endcontent-ref %}
 
-<figure><img src="../.gitbook/assets/no.png" alt=""><figcaption><p>PRINT: see the flagged <code>ERC721</code> certificate of searched address.</p></figcaption></figure>
+{% @figma/embed fileId="2CS6NJbgS73J1pWKZc1IAf" nodeId="11:167" url="https://www.figma.com/file/2CS6NJbgS73J1pWKZc1IAf/UX?node-id=11:167&t=2Y0IdxQAfzQKVFWb-4" %}
 
 ## **FLAGGED:**
 
