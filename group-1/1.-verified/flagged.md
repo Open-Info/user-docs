@@ -4,10 +4,6 @@ description: This address (inter)acts maliciously!
 
 # ❗ Flagged
 
-{% content-ref url="frontend-flow.md" %}
-[frontend-flow.md](frontend-flow.md)
-{% endcontent-ref %}
-
 {% @figma/embed fileId="2CS6NJbgS73J1pWKZc1IAf" nodeId="11:167" url="https://www.figma.com/file/2CS6NJbgS73J1pWKZc1IAf/UX?node-id=11:167&t=2Y0IdxQAfzQKVFWb-4" %}
 
 ## **FLAGGED:**
@@ -18,6 +14,6 @@ Click the printer icon to confirm the Soulbound NFT.
 
 ## How to flag an existing address:
 
-{% content-ref url="../register-with-open-info/flagging.md" %}
-[flagging.md](../register-with-open-info/flagging.md)
+{% content-ref url="../../apply-for/flagging.md" %}
+[flagging.md](../../apply-for/flagging.md)
 {% endcontent-ref %}

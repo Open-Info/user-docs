@@ -2,11 +2,7 @@
 description: Search for verified addresses
 ---
 
-# ❔ Verified
-
-{% content-ref url="frontend-flow.md" %}
-[frontend-flow.md](frontend-flow.md)
-{% endcontent-ref %}
+# ❔ Search
 
 {% @figma/embed fileId="2CS6NJbgS73J1pWKZc1IAf" nodeId="11:69" url="https://www.figma.com/file/2CS6NJbgS73J1pWKZc1IAf/UX?node-id=11:69&t=jNKcrbS60CMFagzk-4" %}
 

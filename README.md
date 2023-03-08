@@ -8,20 +8,22 @@ coverY: 118
 
 :blue\_book: This is the[ User-Manual ](https://open-info.gitbook.io/verified-app/)of the browser App, Verified.
 
-## Breakdown
+## Start here
+
+{% content-ref url="group-1/1.-verified/" %}
+[1.-verified](group-1/1.-verified/)
+{% endcontent-ref %}
+
+### How-Tos
 
 How Verified Systems work.
 
-{% content-ref url="user-interface/frontend-flow.md" %}
-[frontend-flow.md](user-interface/frontend-flow.md)
+{% content-ref url="apply-for/verification.md" %}
+[verification.md](apply-for/verification.md)
 {% endcontent-ref %}
 
-{% content-ref url="register-with-open-info/verification.md" %}
-[verification.md](register-with-open-info/verification.md)
-{% endcontent-ref %}
-
-{% content-ref url="register-with-open-info/flagging.md" %}
-[flagging.md](register-with-open-info/flagging.md)
+{% content-ref url="apply-for/flagging.md" %}
+[flagging.md](apply-for/flagging.md)
 {% endcontent-ref %}
 
 <figure><img src=".gitbook/assets/YoungGrotesqueAmericanbittern-max-1mb (1) (2) (2).gif" alt=""><figcaption><p>noice</p></figcaption></figure>

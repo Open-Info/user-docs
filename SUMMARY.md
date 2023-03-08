@@ -2,22 +2,23 @@
 
 * [👋 Welcome](README.md)
 
-## User-Interface
+## Group 1
 
-* [🔃 Frontend Flow](user-interface/frontend-flow.md)
-* [❔ Verified](user-interface/1.-verified.md)
-* [✔ Verified](user-interface/verified.md)
-* [❗ Flagged](user-interface/flagged.md)
-* [📝 Unknown -> Register](user-interface/unknown-greater-than-register.md)
-* [🗃 View](user-interface/view.md)
+* [❔ Search](group-1/1.-verified/README.md)
+  * [📝 Unknown -> Register](group-1/1.-verified/unknown-greater-than-register.md)
+  * [❗ Flagged](group-1/1.-verified/flagged.md)
+  * [✔ Verified](group-1/1.-verified/verified.md)
+* [🗃 View All](group-1/view-all.md)
 
-## Register with Open-Info ✓
+## Apply for
 
-* [⛓ Soulbound NFTs](register-with-open-info/soulbound-nfts.md)
-* [🙋 Verification](register-with-open-info/verification.md)
-* [🚩 Flagging](register-with-open-info/flagging.md)
+* [🚩 Flagging](apply-for/flagging.md)
+* [🙋 Verification](apply-for/verification.md)
+
+***
+
+* [⛓ Soulbound NFTs](soulbound-nfts.md)
 
 ## Coming soon
 
-* [Rating](coming-soon/rating.md)
-* [AI threat detection](coming-soon/ai-threat-detection.md)
+* [🤖 OI Custodian](coming-soon/ai-threat-detection.md)
