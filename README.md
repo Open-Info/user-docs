@@ -1,7 +1,7 @@
 ---
 description: to ETH public key verification ✔
-cover: .gitbook/assets/A farewell to Saturn [6000x2500].jpg
-coverY: 118
+cover: .gitbook/assets/VERIFIED (2).png
+coverY: 0
 ---
 
 # 👋 Welcome
