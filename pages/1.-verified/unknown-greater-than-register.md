@@ -11,12 +11,12 @@ Here you can now either apply for verification or flag the address.
 
 ### Verification is a vetting process.
 
-{% content-ref url="../../apply-for/verification.md" %}
-[verification.md](../../apply-for/verification.md)
+{% content-ref url="../../oi-classifications/verification.md" %}
+[verification.md](../../oi-classifications/verification.md)
 {% endcontent-ref %}
 
 ### Flagging is manually reviewed.&#x20;
 
-{% content-ref url="../../apply-for/flagging.md" %}
-[flagging.md](../../apply-for/flagging.md)
+{% content-ref url="../../oi-classifications/flagging.md" %}
+[flagging.md](../../oi-classifications/flagging.md)
 {% endcontent-ref %}

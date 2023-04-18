@@ -2,18 +2,18 @@
 
 * [👋 Welcome](README.md)
 
-## Group 1
+## Pages
 
-* [❔ Search](group-1/1.-verified/README.md)
-  * [📝 Unknown -> Register](group-1/1.-verified/unknown-greater-than-register.md)
-  * [❗ Flagged](group-1/1.-verified/flagged.md)
-  * [✔ Verified](group-1/1.-verified/verified.md)
-* [🗃 View All](group-1/view-all.md)
+* [ℹ Home](pages/1.-verified/README.md)
+  * [📝 Unknown -> Register](pages/1.-verified/unknown-greater-than-register.md)
+  * [❗ Flagged](pages/1.-verified/flagged.md)
+  * [✔ Verified](pages/1.-verified/verified.md)
+* [🗃 View All](pages/view-all.md)
 
-## Apply for
+## OI Classifications
 
-* [🚩 Flagging](apply-for/flagging.md)
-* [🙋 Verification](apply-for/verification.md)
+* [🚩 Flagging](oi-classifications/flagging.md)
+* [🙋 Verification](oi-classifications/verification.md)
 
 ***
 
