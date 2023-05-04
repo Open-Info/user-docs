@@ -6,8 +6,8 @@ description: how-to guide on getting verified
 
 ## Page:
 
-{% content-ref url="../pages/1.-verified/verified.md" %}
-[verified.md](../pages/1.-verified/verified.md)
+{% content-ref url="../pages/verified.md" %}
+[verified.md](../pages/verified.md)
 {% endcontent-ref %}
 
 ## Valid Criteria:

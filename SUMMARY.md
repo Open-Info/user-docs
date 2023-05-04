@@ -4,10 +4,10 @@
 
 ## Pages
 
-* [ℹ Home](pages/1.-verified/README.md)
-  * [📝 Unknown -> Register](pages/1.-verified/unknown-greater-than-register.md)
-  * [❗ Flagged](pages/1.-verified/flagged.md)
-  * [✔ Verified](pages/1.-verified/verified.md)
+* [ℹ Home](pages/1.-verified.md)
+* [📝 Unknown -> Register](pages/unknown-greater-than-register.md)
+* [✔ Verified](pages/verified.md)
+* [❗ Flagged](pages/flagged.md)
 * [🗃 View All](pages/view-all.md)
 
 ## OI Classifications
@@ -15,9 +15,9 @@
 * [🚩 Flagging](oi-classifications/flagging.md)
 * [🙋 Verification](oi-classifications/verification.md)
 
-***
+## Tech
 
-* [⛓ Soulbound NFTs](soulbound-nfts.md)
+* [⛓ Soulbound NFTs](tech/soulbound-nfts.md)
 
 ## Coming soon
 

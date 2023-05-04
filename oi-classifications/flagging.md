@@ -6,8 +6,8 @@ description: how-to guide on flagging a user
 
 ## Page
 
-{% content-ref url="../pages/1.-verified/flagged.md" %}
-[flagged.md](../pages/1.-verified/flagged.md)
+{% content-ref url="../pages/flagged.md" %}
+[flagged.md](../pages/flagged.md)
 {% endcontent-ref %}
 
 ## Valid Criteria:
@@ -22,6 +22,19 @@ Accepted evidence includes, but is not limited to the following
 * hacks,
 * rug pulls, and
 * cringe behaviour.
+
+## Rewards:
+
+Until VRFD.info comes out of Beta, rewards will not be integrated into the app itself but received as one of two things:
+
+* Random Airdrop
+* Giveaway contest
+
+To find out what the current available rewards might be. See the pinned post on any of our socials
+
+{% content-ref url="http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/socials" %}
+[Socials](http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/socials)
+{% endcontent-ref %}
 
 ## Embedded Form:
 

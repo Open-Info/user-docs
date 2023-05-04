@@ -14,8 +14,8 @@ description: to ETH public key verification ✔
 
 ## Start Page
 
-{% content-ref url="pages/1.-verified/" %}
-[1.-verified](pages/1.-verified/)
+{% content-ref url="pages/1.-verified.md" %}
+[1.-verified.md](pages/1.-verified.md)
 {% endcontent-ref %}
 
 ## How-Tos
