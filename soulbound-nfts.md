@@ -4,7 +4,11 @@ description: The perfect source of truth.
 
 # ⛓ Soulbound NFTs
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+## See Litepaper Chapter
+
+{% content-ref url="http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/tech" %}
+[Soulbound Certification](http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/tech)
+{% endcontent-ref %}
 
 ## The benefits
 

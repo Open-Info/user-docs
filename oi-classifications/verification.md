@@ -12,8 +12,16 @@ description: how-to guide on getting verified
 
 ## Valid Criteria:
 
-Open Info verifies individuals, projects, organizations, and businesses that have chosen to share information of themselves. This information may include, but is not limited to,
+Open Info verifies individuals, projects, organizations, and businesses that have chosen to link public information to an address. This information may include, but is not limited to,
 
-* A social account.
-* Charitable Donations.
+* A social account:
+  * LinkedIn,
+  * Twitter, or
+  * Telegram.
+* A Buildspace NFT,
+* charitable donations,
 * Successful delivery of goods or services.
+
+## Embedded Form
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe2sl8CmPl3W-LVxoaDCeWM4qatdnhbmyv7v3k3AXDjZBt3yA/viewform?usp=sf_link" %}

@@ -10,12 +10,12 @@ description: Search for verified addresses
 
 ### Search bar
 
-Simply `Ctrl + V` followed by `Enter.`
+Bring a copied Ethereum Address and simply `Ctrl + V` followed by `Enter.`
 
-### Alternatively below,
+### Alternatively,
 
 Browse the top addresses, ranked on votes, for each OI classification by clicking on the respective button.
 
-### (Optional)
+### Optionally
 
-Connect you wallet, it grants you the rights to the <mark style="color:green;">GET VRFD</mark> submission.
+Connect your wallet to gain voting rights.
