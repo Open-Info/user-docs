@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
+* [❔ TL:DR](tl-dr.md)
 
 ## Pages
 

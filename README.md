@@ -8,11 +8,13 @@ description: to ETH public key verification ✔
 
 <figure><img src=".gitbook/assets/unknown_animation.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-## 1 min TL:DR
+## In a hurry? See the 1min video summary.
 
-{% embed url="https://www.loom.com/share/1e93863d9145469d90a159447e0b4f09" %}
+{% content-ref url="tl-dr.md" %}
+[tl-dr.md](tl-dr.md)
+{% endcontent-ref %}
 
-## Start Page
+## Start Here
 
 {% content-ref url="pages/1.-verified.md" %}
 [1.-verified.md](pages/1.-verified.md)
