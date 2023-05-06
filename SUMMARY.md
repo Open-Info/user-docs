@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🧑🏫 VRFD User Manual](README.md)
-* [❔ TL:DR](tl-dr.md)
+* [📽 TL:DR](tl-dr.md)
 
 ## Pages
 

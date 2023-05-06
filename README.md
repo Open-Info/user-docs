@@ -1,18 +1,16 @@
 ---
-description: to ETH public key verification ✔
+description: Everything you need to use vrfd.info
 ---
 
 # 🧑🏫 VRFD User Manual
-
-:blue\_book: This is the[ User-Manual ](https://open-info.gitbook.io/verified-app/)of the browser dApp, Verified.
-
-<figure><img src=".gitbook/assets/unknown_animation.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 ## In a hurry? See the video summary
 
 {% content-ref url="tl-dr.md" %}
 [tl-dr.md](tl-dr.md)
 {% endcontent-ref %}
+
+<figure><img src=".gitbook/assets/unknown_animation.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Start Here
 
