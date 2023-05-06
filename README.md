@@ -8,7 +8,7 @@ description: to ETH public key verification ✔
 
 <figure><img src=".gitbook/assets/unknown_animation.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-## In a hurry? See the 1min video summary.
+## In a hurry? See the video summary.
 
 {% content-ref url="tl-dr.md" %}
 [tl-dr.md](tl-dr.md)
