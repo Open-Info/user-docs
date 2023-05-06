@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [🧑🏫 VRFD User Manual](README.md)
 * [❔ TL:DR](tl-dr.md)
 
 ## Pages
