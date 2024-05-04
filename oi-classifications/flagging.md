@@ -32,8 +32,8 @@ Until VRFD.info comes out of Beta, rewards will not be integrated into the app i
 
 To find out what the current available rewards might be. See the pinned post on any of our socials
 
-{% content-ref url="http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/socials" %}
-[Socials](http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/socials)
+{% content-ref url="https://app.gitbook.com/s/Y4QsHMhEMALY0TKsveTL/about-us/socials" %}
+[Socials](https://app.gitbook.com/s/Y4QsHMhEMALY0TKsveTL/about-us/socials)
 {% endcontent-ref %}
 
 ## Embedded Form:

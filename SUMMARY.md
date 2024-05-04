@@ -1,15 +1,14 @@
 # Table of contents
 
-* [🧑🏫 VRFD User Manual](README.md)
-* [📽 TL:DR](tl-dr.md)
+* [🧑‍🏫 VRFD User Manual](README.md)
 
 ## Pages
 
-* [ℹ Home](pages/1.-verified.md)
+* [ℹ️ Home](pages/1.-verified.md)
 * [📝 Unknown -> Register](pages/unknown-greater-than-register.md)
-* [✔ Verified](pages/verified.md)
+* [✔️ Verified](pages/verified.md)
 * [❗ Flagged](pages/flagged.md)
-* [🗃 View All](pages/view-all.md)
+* [🗃️ View All](pages/view-all.md)
 
 ## OI Classifications
 
@@ -18,7 +17,7 @@
 
 ## Tech
 
-* [⛓ Soulbound NFTs](tech/soulbound-nfts.md)
+* [⛓️ Soulbound NFTs](tech/soulbound-nfts.md)
 
 ## Coming soon
 

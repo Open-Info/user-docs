@@ -2,12 +2,12 @@
 description: The perfect source of truth.
 ---
 
-# ⛓ Soulbound NFTs
+# ⛓️ Soulbound NFTs
 
-## See Litepaper Chapter
+## See Whitepaper
 
-{% content-ref url="http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/tech" %}
-[Soulbound Certification](http://localhost:5000/s/Y4QsHMhEMALY0TKsveTL/tech)
+{% content-ref url="https://app.gitbook.com/s/Y4QsHMhEMALY0TKsveTL/the-product/tech" %}
+[Soulbound Identification](https://app.gitbook.com/s/Y4QsHMhEMALY0TKsveTL/the-product/tech)
 {% endcontent-ref %}
 
 ## The benefits

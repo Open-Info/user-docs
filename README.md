@@ -2,15 +2,7 @@
 description: Everything you need to use vrfd.info
 ---
 
-# 🧑🏫 VRFD User Manual
-
-## In a hurry? See the video summary
-
-{% content-ref url="tl-dr.md" %}
-[tl-dr.md](tl-dr.md)
-{% endcontent-ref %}
-
-<figure><img src=".gitbook/assets/unknown_animation.gif" alt="" width="563"><figcaption></figcaption></figure>
+# 🧑‍🏫 VRFD User Manual
 
 ## Start Here
 
@@ -21,6 +13,8 @@ description: Everything you need to use vrfd.info
 ## How-Tos
 
 Here you can read more about how to apply for the verification or flagging of an address.
+
+<figure><img src=".gitbook/assets/unknown_animation.gif" alt="" width="188"><figcaption></figcaption></figure>
 
 {% content-ref url="oi-classifications/verification.md" %}
 [verification.md](oi-classifications/verification.md)
